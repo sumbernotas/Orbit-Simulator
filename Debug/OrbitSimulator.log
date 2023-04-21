@@ -1,0 +1,81 @@
+﻿  Source.cpp
+C:\Users\sumrx\source\repos\OrbitSimulator\OrbitSimulator\Source.cpp(83,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\sumrx\source\repos\OrbitSimulator\OrbitSimulator\Source.cpp(97,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\sumrx\source\repos\OrbitSimulator\OrbitSimulator\Source.cpp(126,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sumrx\source\repos\OrbitSimulator\OrbitSimulator\Source.cpp(127,62): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\sumrx\source\repos\OrbitSimulator\OrbitSimulator\Source.cpp(127,47): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\sumrx\source\repos\OrbitSimulator\OrbitSimulator\Source.cpp(143,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sumrx\source\repos\OrbitSimulator\OrbitSimulator\Source.cpp(144,74): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\sumrx\source\repos\OrbitSimulator\OrbitSimulator\Source.cpp(144,55): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\sumrx\source\repos\OrbitSimulator\OrbitSimulator\Source.cpp(160,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sumrx\source\repos\OrbitSimulator\OrbitSimulator\Source.cpp(161,68): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\sumrx\source\repos\OrbitSimulator\OrbitSimulator\Source.cpp(161,51): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\sumrx\source\repos\OrbitSimulator\OrbitSimulator\Source.cpp(177,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sumrx\source\repos\OrbitSimulator\OrbitSimulator\Source.cpp(178,68): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\sumrx\source\repos\OrbitSimulator\OrbitSimulator\Source.cpp(178,51): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\sumrx\source\repos\OrbitSimulator\OrbitSimulator\Source.cpp(194,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sumrx\source\repos\OrbitSimulator\OrbitSimulator\Source.cpp(195,65): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\sumrx\source\repos\OrbitSimulator\OrbitSimulator\Source.cpp(195,49): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\sumrx\source\repos\OrbitSimulator\OrbitSimulator\Source.cpp(211,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sumrx\source\repos\OrbitSimulator\OrbitSimulator\Source.cpp(212,74): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\sumrx\source\repos\OrbitSimulator\OrbitSimulator\Source.cpp(212,55): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\sumrx\source\repos\OrbitSimulator\OrbitSimulator\Source.cpp(228,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sumrx\source\repos\OrbitSimulator\OrbitSimulator\Source.cpp(229,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\sumrx\source\repos\OrbitSimulator\OrbitSimulator\Source.cpp(229,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  OrbitSimulator.vcxproj -> C:\Users\sumrx\source\repos\OrbitSimulator\Debug\OrbitSimulator.exe
