@@ -1,0 +1,11 @@
+# Ignore build files
+/build/
+*.vs
+*.idea
+*.vscode
+CMakeCache.txt
+CMakeFiles/
+Makefile
+*.log
+*.bak
+*.swp
